@@ -65,6 +65,13 @@ ul, ol {
     padding-left: 20px;
 }
 
+.section-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+
 footer {
     background: #333;
     color: #fff;
